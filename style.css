@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero,
+.footer{
+    background-color: #1f2937;
+}
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+.link{
+    font-size: 18px;
+    color: #e5e7eb;
+}
